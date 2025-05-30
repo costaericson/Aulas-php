@@ -18,9 +18,10 @@
             <li><a href="aula-22-05/calculo.php">Aula 3 - 22/05/2025 - Usando get Calculo</a></li>
             <li><a href="aula-22-05/calculoOperacoes.php">Aula 3 - 22/05/2025 - Operacoes usando GET</a></li>
             <li><a href="aula-23-05/index.php">Aula 4 - 23/05/2025 - Calculo de IMC POST</a></li>
-            <li><a href="aula-23-05/tabuada.php">Aula 4 - 23/05/2024 - Cadastro de Nomes</a></li>
+            <li><a href="aula-23-05/tabuada.php">Aula 4 - 23/05/2025 - Cadastro de Nomes</a></li>
             <li><a href="aula-26-05/">Aula 5 - 26/05/2025 - Criando Formularios</a></li>
-            <li><a href="aula-23-05/">Aula 4 - </a></li>
+            <li><a href="aula-29-05/">Aula - 29/05/2025 - validando informações em formularios</a></li>
+            <li><a href="aula-30-05/">Aula - 30/05/2025 - Trabalhando com arrays</a></li>
         </ul>
     </div>
 
