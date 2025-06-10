@@ -22,6 +22,10 @@
             <li><a href="aula-26-05/">Aula 5 - 26/05/2025 - Criando Formularios</a></li>
             <li><a href="aula-29-05/">Aula - 29/05/2025 - validando informações em formularios</a></li>
             <li><a href="aula-30-05/">Aula - 30/05/2025 - Trabalhando com arrays</a></li>
+            <li><a href="aula-02-06/">Aula - 02/06/2025 - Armazenando nomes usando $_SESSION</a></li>
+            <li><a href="aula-04-06/">Aula - 04/06/2025 - Criando e manipulando arquivos</a></li>
+            <li><a href="aula-05-06/">Aula - 05/06/2025 - Criando e manipulando arquivos</a></li>
+            <li><a href="aula-09-06/formulario.php">Aula - 09/06/2025 - Cadastrando no banco de dados</a></li>
         </ul>
     </div>
 
